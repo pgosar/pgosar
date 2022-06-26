@@ -9,7 +9,7 @@ Say hello!
 [![Linkedin Badge](https://img.shields.io/badge/-pgosar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranay-gosar-836297192/)](https://www.linkedin.com/in/pranay-gosar-836297192/)
 [![Gmail Badge](https://img.shields.io/badge/-gosarpranay-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gosarpranay@gmail.com)](mailto:gosarpranay@gmail.com)
 
-### Technologies 🚀
+### Technologies
 
 &nbsp;&nbsp;&nbsp;&nbsp; Workflow:
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,7 +37,7 @@ Say hello!
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width=7% height=7%>
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" width=7% height=7%>
 
-### Currently Learning ⚡ 
+### Currently Learning
 
 &nbsp;&nbsp;&nbsp;&nbsp; Languages:
 &nbsp;&nbsp;&nbsp;&nbsp;
