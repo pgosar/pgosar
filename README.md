@@ -43,6 +43,7 @@ Say hello!
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" width=7% height=7%>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" width=5.2% height=5.2%>
+<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" width=6% height=6%>
 
 &nbsp;&nbsp;&nbsp;&nbsp; Frameworks:
 &nbsp;&nbsp;&nbsp;&nbsp;
