@@ -1,7 +1,6 @@
 # Hey, I'm Pranay :wave:
 
 * Second year at UT Austin studying Computer Science 
-* Current intern as a Software Developer at Alcon. 
 * Particularly interested in distributed systems and systems level programming in general. 
 
 
