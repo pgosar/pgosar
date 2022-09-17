@@ -1,7 +1,8 @@
 # Hey, I'm Pranay :wave:
 
 * Second year at UT Austin studying Computer Science 
-* Particularly interested in distributed systems and systems level programming in general. 
+* I have a wide range of interests but am currently learning about systems level programming.
+* You can also find me on [gitlab](https://gitlab.com/pgosar)
 
 
 Say hello!
