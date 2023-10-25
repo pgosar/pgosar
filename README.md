@@ -1,3 +1,3 @@
-Say hello!
+I'm totally not gonna leave a bunch of half-finished side projects to collect dust forever
 
-- [Linkedin](https://www.linkedin.com/in/pranay-gosar-836297192/)
+Currently interested in applied ML and systems/infra.
