@@ -1,1 +1,1 @@
-Currently interested in applied ML and systems/infra.
+I like when computers go fast
